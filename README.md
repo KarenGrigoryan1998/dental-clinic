@@ -60,8 +60,8 @@ Edit the `src/config/clinic.js` file to customize:
 ```javascript
 export const clinicConfig = {
   name: 'Your Dental Clinic',
-  phone: '+374 77 316 566',
-  whatsapp: '+37477316566',
+  phone: '+374 00 123 456',
+  whatsapp: '+37400123456',
   address: {
     hy: 'Երևան, Ձեր հասցեն, փող. 1',
     en: 'Your Address, Street 1',
